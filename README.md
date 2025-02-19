@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there, I am Hector ​👋
+## Software Developer
 
-<!--
-**HectorVergel/HectorVergel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about software development in gaming, from implementing gameplay mechanics to building software tools and working on game engines themselves.
+
+# My tech stack
+
+![image](https://github.com/user-attachments/assets/800357ee-8984-4034-afa6-bdbbfbf122b2)
+
 
 Here are some ideas to get you started:
 
